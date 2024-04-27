@@ -1,5 +1,6 @@
 **Sentiment Analysis README**
 
+![sentiments](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Demotion&psig=AOvVaw1LSMsJ0ajU_woHMZeV_hMf&ust=1714289350560000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLjwlNDv4YUDFQAAAAAdAAAAABAE)
 ### Introduction
 Welcome to our Sentiment Analysis tool! This tool is designed to analyze the sentiment of textual data, determining whether the expressed sentiment is positive, negative, or neutral. This README file serves as a guide to help you understand the functionality, usage, and implementation of the Sentiment Analysis tool.
 
